@@ -1,4 +1,2 @@
-/rn /surprise/index.html 200
-/rn/ /surprise/index.html 200
-/unilorin /surprise/index.html 200
-/unilorin/ /surprise/index.html 200
+# Both celebration pages now have their own index.html.
+# Preserve direct /rn/ and /unilorin/ routes.
