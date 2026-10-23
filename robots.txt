@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /rn
+Disallow: /unilorin
+Disallow: /surprise/
